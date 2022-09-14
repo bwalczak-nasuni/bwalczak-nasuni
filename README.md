@@ -1,5 +1,6 @@
 ### Hi there 👋
 - :bowtie: Core Engineering - Data intelligence
+- :four_leaf_clover: Ireland
 - 📫 @bwalczak
 
 
