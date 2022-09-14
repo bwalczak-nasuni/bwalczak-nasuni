@@ -1,5 +1,6 @@
 ### Hi there 👋
-- :bowtie: Core Engineering - Data intelligence
+## Here's short bio:
+- :bowtie: Senior Software Engineer - Data intelligence- Core Engineering
 - :four_leaf_clover: Ireland
 - 📫 @bwalczak
 
