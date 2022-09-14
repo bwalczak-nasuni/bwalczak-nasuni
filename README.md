@@ -1,5 +1,5 @@
 ### Hi there 👋
-- :bowtie: Core Engineering/Data intelligence
+- :bowtie: Core Engineering - Data intelligence
 - 📫 @bwalczak
 
 
