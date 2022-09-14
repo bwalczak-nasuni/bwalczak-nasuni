@@ -1,4 +1,7 @@
 ### Hi there 👋
+- :bowtie: Core Engineering/Data intelligence
+- 📫 @bwalczak
+
 
 <!--
 **bwalczak-nasuni/bwalczak-nasuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
